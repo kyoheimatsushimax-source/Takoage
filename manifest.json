@@ -1,0 +1,17 @@
+{
+  "name": "たこあげ ちゅうごくご",
+  "short_name": "たこあげ",
+  "description": "『标准中文 第一册』に沿って、毎週の課を楽しく復習する子ども向け中国語アプリ",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#CDEBF5",
+  "theme_color": "#2E2F7A",
+  "lang": "ja",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
